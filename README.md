@@ -2,21 +2,22 @@
 
 This app is made with React Native to calculate your BMI.
 
-## Installation and Usage
+## Install and Usage
 
-You can clone the repository using:
+Clone the repostirory and enter it.
 
-```bash
+```
 git clone https://github.com/LucasNascimentoRibeiro/IMC-Calculator-React-Native.git
+cd IMC-Calculator-React-Native/
 ```
-You can start it going to the cloned folder and using the expo cli to run.
+
+After that, install his dependencies using ```yarn```  or ```npm install``` and run it using: 
 
 ```
-cd IMC-Calculator-React-Native
 expo start
 ```
 
-## Technologys
+## Technologies
 
 <li>React Native</li>
 <li>Expo</li>
